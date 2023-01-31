@@ -18,5 +18,5 @@ jobs:
 
       run: |
         sudo apt update && sudo apt upgrade -y
-        wget https://raw.githubusercontent.com/XSans0/my-script/main/build.sh
+        wget https://raw.githubusercontent.com/Alessakrendly/my-script/main/build.sh
         bash build.sh
